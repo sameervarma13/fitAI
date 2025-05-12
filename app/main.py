@@ -48,8 +48,8 @@ print("💾 Using DB at:", db_path)
 engine = create_engine(f"sqlite:///{db_path}", echo=True)
 
 
-OURA_CLIENT_ID = "Y5RZCMIJEN7CKNAQ"
-OURA_CLIENT_SECRET = "3AFIX2LD4CKA5MIAVT2YPQC5RI35ZV4J"
+OURA_CLIENT_ID = ""
+OURA_CLIENT_SECRET = ""
 OURA_REDIRECT_URI = "http://localhost:8000/oura/callback"
 
 # Redirect to Oura login
