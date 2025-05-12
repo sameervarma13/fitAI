@@ -1,0 +1,100 @@
+[
+    {
+      "date": "2025-03-11",
+      "calories": 2080,
+      "protein": 204,
+      "carbs": 126,
+      "fat": 84
+    },
+    {
+      "date": "2025-03-12",
+      "calories": 2026,
+      "protein": 209,
+      "carbs": 119,
+      "fat": 79
+    },
+    {
+      "date": "2025-03-13",
+      "calories": 2001,
+      "protein": 205,
+      "carbs": 118,
+      "fat": 79
+    },
+    {
+      "date": "2025-03-14",
+      "calories": 2063,
+      "protein": 197,
+      "carbs": 128,
+      "fat": 85
+    },
+    {
+      "date": "2025-03-15",
+      "calories": 2012,
+      "protein": 208,
+      "carbs": 118,
+      "fat": 79
+    },
+    {
+      "date": "2025-03-16",
+      "calories": 2071,
+      "protein": 207,
+      "carbs": 124,
+      "fat": 83
+    },
+    {
+      "date": "2025-03-17",
+      "calories": 1989,
+      "protein": 202,
+      "carbs": 118,
+      "fat": 79
+    },
+    {
+      "date": "2025-03-18",
+      "calories": 2066,
+      "protein": 204,
+      "carbs": 125,
+      "fat": 83
+    },
+    {
+      "date": "2025-03-19",
+      "calories": 1958,
+      "protein": 203,
+      "carbs": 115,
+      "fat": 76
+    },
+    {
+      "date": "2025-03-20",
+      "calories": 2015,
+      "protein": 204,
+      "carbs": 120,
+      "fat": 80
+    },
+    {
+      "date": "2025-03-21",
+      "calories": 2077,
+      "protein": 202,
+      "carbs": 127,
+      "fat": 85
+    },
+    {
+      "date": "2025-03-22",
+      "calories": 2038,
+      "protein": 205,
+      "carbs": 122,
+      "fat": 81
+    },
+    {
+      "date": "2025-03-23",
+      "calories": 2078,
+      "protein": 205,
+      "carbs": 126,
+      "fat": 84
+    },
+    {
+      "date": "2025-03-24",
+      "calories": 2082,
+      "protein": 200,
+      "carbs": 128,
+      "fat": 85
+    }
+  ]
