@@ -25,8 +25,8 @@ from fastapi.middleware.cors import CORSMiddleware
 
 
 
-api_key = "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"
-access_token = "R3I34DEDLY3LBXKOSPF4W4ILKJWS4PHY"
+api_key = ""
+access_token = ""
 # Ensure that the OpenAI API key is set in your environment variable
 openai.api_key = api_key
 os.environ["OPENAI_API_KEY"] = api_key
