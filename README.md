@@ -1,5 +1,5 @@
 
-# FitAI – Your Personalized AI Fitness Coach 🧠💪
+# FitAI – Your Personalized AI Fitness Coach
 
 ![FitAI Preview](images/fitness_app.png)
 
@@ -7,7 +7,7 @@ FitAI is an AI-powered fitness app that integrates body composition, nutrition, 
 
 ---
 
-## 🔧 Project Structure
+## Project Structure
 
 - **`app/`** – FastAPI backend  
   - Handles CSV uploads, stores body composition, workout, and nutrition data
@@ -21,18 +21,18 @@ FitAI is an AI-powered fitness app that integrates body composition, nutrition, 
 
 ---
 
-## 💡 Key Features
+## Key Features
 
-- 📈 **Body Composition Chart** with filters and trend visualization  
-- 🥗 **Nutrition Tracking** with macro breakdown and daily progress rings  
-- 🏋️ **Workout Log** table with date, exercise, and reps/weight  
-- 🎯 **GoalBox** showing live progress toward your target weight and body fat  
-- 🧠 **AI Insight Card** with daily advice and weekly summary  
-- 💬 **AI Coach Chat** that answers personalized fitness questions
+- **Body Composition Chart** with filters and trend visualization  
+- **Nutrition Tracking** with macro breakdown and daily progress rings  
+- **Workout Log** table with date, exercise, and reps/weight  
+- **GoalBox** showing live progress toward your target weight and body fat  
+- **AI Insight Card** with daily advice and weekly summary  
+- **AI Coach Chat** that answers personalized fitness questions
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Vite, Material UI  
 - **Backend**: FastAPI, SQLModel, OpenAI API  
@@ -41,7 +41,7 @@ FitAI is an AI-powered fitness app that integrates body composition, nutrition, 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repo:
 
